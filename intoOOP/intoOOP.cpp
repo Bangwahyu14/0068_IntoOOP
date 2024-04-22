@@ -29,4 +29,8 @@ publick:
 		cout << "SKS: ";
 		cin >> sks;
 	}
+
+	void output() {
+
+	}
 };
