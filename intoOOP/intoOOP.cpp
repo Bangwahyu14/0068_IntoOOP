@@ -24,6 +24,7 @@ publick:
 	void input() {
 		cout << "kode MK: ";
 		cin >> kodemk;
+		cout << "nama MK: ";
 
 
 	}
