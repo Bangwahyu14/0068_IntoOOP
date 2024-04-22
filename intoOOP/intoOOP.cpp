@@ -14,3 +14,7 @@ publick: //akses modifier
 
 	}
 };
+
+class matakuliah {
+
+};
