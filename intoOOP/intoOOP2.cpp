@@ -13,7 +13,7 @@ publick:
 
 		cout << "Masukan panjangnya = ";
 		cin >> panjang;
-
+		cout << "Masukan lebarnya = ";
 	}
 
 };
