@@ -27,6 +27,6 @@ publick:
 		cout << "nama MK: ";
 		cin >> namamk;
 		cout << "SKS: ";
-
+		cin >> sks;
 	}
 };
