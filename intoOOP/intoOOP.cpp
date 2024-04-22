@@ -20,4 +20,9 @@ private:
 	string kodemk;
 	string namamk;
 	int sks;
+publick:
+	void input() {
+		cout << "kode MK: ";
+
+	}
 };
