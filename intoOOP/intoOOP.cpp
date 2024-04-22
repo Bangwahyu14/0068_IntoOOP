@@ -31,6 +31,6 @@ publick:
 	}
 
 	void output() {
-
+		cout << "kode MK: " << kodemk << endl;
 	}
 };
