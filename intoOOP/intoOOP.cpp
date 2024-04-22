@@ -33,5 +33,6 @@ publick:
 	void output() {
 		cout << "kode MK: " << kodemk << endl;
 		cout << "naama MK: " << namamk << endl;
+		cout << "SKS: " << sks << endl;
 	}
 };
