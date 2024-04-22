@@ -8,6 +8,8 @@ publick: //akses modifier
 	string jurusan;
 
 	void output() {
+		cout << "nama: " << nama << endl;
+
 
 	}
 };
