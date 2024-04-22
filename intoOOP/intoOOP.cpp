@@ -9,7 +9,8 @@ publick: //akses modifier
 
 	void output() {
 		cout << "nama: " << nama << endl;
-
+		cout << "umur: " << nama << endl;
+	
 
 	}
 };
