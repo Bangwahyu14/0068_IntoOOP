@@ -11,6 +11,9 @@ publick:
 
 	void input() { // methode input persegi panjang
 
+		cout << "Masukan panjangnya = ";
+		cin >> panjang;
+
 	}
 
 };
