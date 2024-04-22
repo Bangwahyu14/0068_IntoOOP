@@ -17,6 +17,6 @@ publick: //akses modifier
 
 class matakuliah {
 private:
-
+	string kodemk;
 
 };
